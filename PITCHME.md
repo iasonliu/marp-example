@@ -13,7 +13,7 @@ _paginate: false
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/iasonliu/marp-example
 
 <style scoped>a { color: #eee; }</style>
 
